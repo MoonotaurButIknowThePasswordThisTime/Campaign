@@ -1,0 +1,13 @@
+Ember - Essence (Ess) (They/Them), A 5"5' Human Monk. A former entertainer from a small town offered a place among a travelling group of monks who were providing aid to surrounding villages. Motivated by these travels they have set out on a journey to become enlightened like those they travelled with, finding a town on the border of Baldur's Gate influence, out of provisions and in urgent need of allies in their quest.
+
+Matt - Violet (Vi) (She/Her), A 2" Gnome Fighter. A poorly experienced detective driven away from Baldur's Gate after being looked down upon by her colleagues for chasing clues of a mysterious cult leading to very little in the way of arrests or reputation for a police force already struggling to maintain public image. Partnering with her long time drinking buddy, Kosmo, she has left her home to chase her last remaining lead on a cult to a small town barely within BG's jurisdiction.
+
+Winry - (They/Them), A 7" Warforged Paladin. A former mercenary desperate for work has been cast out in Baldur's Gate looking for work but very few are willing to talk to a clanker such as them. Finding solace in the welcoming of a church who's only barter for acceptance was taking on Oath of Redemption. Dispatched to provide safety to a church recently sacked by looters they depart with Vi to work and travel together.
+
+Felix - Kosmos (Kos) (Any), A 3"6 Harengon Rogue. Once a well known mob boss, tricked by a fey and tasting his own stash of fairy dust infused shrooms they suffered severe memory loss, aware that he was once apart of something greater he has been told by mysterious figures in his dreams the answers lie to the south. Should he do well his memory may well be restored, with horrendously vague goals they set up in the local tavern, swindling newcommers of their gold while searching for information.
+
+Leah - Rowan (Ro) (SI: Alora) (They/Them), A 5"8 Half-Elf Druid. (Backstory to be decided.)
+
+Eli - Raven Nightspirit (TBD) (They/Them), A 5"2 Half-Elf Warlock. Sworn into a pact with a demi-god who promised to cure their nightmares Raven must fight any and all evil they encounter. Not being too experienced in this they have fled south to avoid their patron's scrutiny hoping to rid themselves of their curse in any way possible. Hearing rumours of powerful magic groups in the area they have settled in the local inn, tempted to eldritch blast the conman who sits across the bar from them each morning.
+
+Eden - A 4" Dwarf Bard. Gods. Help. Us. All.

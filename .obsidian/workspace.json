@@ -39,14 +39,14 @@
             "id": "6401bd057a035106",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Campaign/Player Characters.md",
-                "mode": "source",
-                "source": false
+                "aFile": "README.md",
+                "bFile": "README.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Player Characters"
+              "icon": "diff",
+              "title": "Diff: README"
             }
           }
         ],
@@ -226,11 +226,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6401bd057a035106",
+  "active": "06384bfdf62695c8",
   "lastOpenFiles": [
+    "Campaign/Player Characters.md",
+    "README.md",
     "DM stuff and In Progress/Prologue.md",
     "DM stuff and In Progress/World Building.md",
-    "Campaign/Player Characters.md",
     "DM stuff and In Progress",
     "Welcome.md",
     "Untitled 1.base",

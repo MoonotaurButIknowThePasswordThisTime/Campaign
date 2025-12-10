@@ -6,7 +6,7 @@ Clank - Curio (They/Them), A 7" Warforged Paladin. A former mercenary desperate 
 
 Kos - Kosmos (Any), A 3"6 Harengon Rogue. Once a well known mob boss, tricked by a fey and tasting his own stash of fairy dust infused shrooms they suffered severe memory loss, aware that he was once apart of something greater he has been told by mysterious figures in his dreams the answers lie to the south. Should he do well his memory may well be restored, with horrendously vague goals they set up in the local tavern, swindling newcommers of their gold while searching for information.
 
-Ro - Rowan (SI: Alora) (They/Them), A 5"8 Half-Elf Druid. (Backstory to be decided.)
+Ro - Rowan (SI: Alora) (They/Them), A 5"8 Half-Elf Druid. (Backstory to be decided) A hermit outcast by humans and elves due to their race, finding safety in nature they have become heavily attuned to the natural world. 
 
 Rav - Raven Nightspirit (They/Them), A 5"2 Half-Elf Warlock. Sworn into a pact with a demi-god who promised to cure their nightmares Raven must fight any and all evil they encounter. Not being too experienced in this they have fled south to avoid their patron's scrutiny hoping to rid themselves of their curse in any way possible. Hearing rumours of powerful magic groups in the area they have settled in the local inn, tempted to eldritch blast the conman who sits across the bar from them each morning.
 

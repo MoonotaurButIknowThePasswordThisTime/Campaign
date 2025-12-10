@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Player Characters"
             }
+          },
+          {
+            "id": "80fe759a6a6d5b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Characters"
+            }
+          },
+          {
+            "id": "6401bd057a035106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Characters"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,10 +226,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2dcda69ce87a9bf5",
+  "active": "6401bd057a035106",
   "lastOpenFiles": [
-    "Welcome.md",
+    "DM stuff and In Progress/Prologue.md",
+    "DM stuff and In Progress/World Building.md",
     "Campaign/Player Characters.md",
+    "DM stuff and In Progress",
+    "Welcome.md",
     "Untitled 1.base",
     "Untitled.base",
     "Campaign"

@@ -1,0 +1,3 @@
+A Jailed Kosmos is awoken by Curio and Violet conversing with the local cleric and Sherriff about the local cult, which they can indeed does exist but not provided much information on as they are barely mercenaries permanently stationed here, the cleric seems to have more information but not to reveal in front of the Sherriff, before much more can be discussed, a commotion breaks out outside.
+
+A fight ensues from 13 Globins vs 5 guards, intially outnumbered and severly at risk of being overrun, our dear heroes come to their rescue and save the day. Being healed up by the local cleric and invited into [[The Nashkel Inn]], they are greeted by a strange anomaly effecting the patrons....

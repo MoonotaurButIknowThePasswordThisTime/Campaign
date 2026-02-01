@@ -8,12 +8,3 @@ Kos - Kosmos (Any), A 3"6 Harengon Rogue. Once a well known mob boss, tricked by
 
 Ro - Rowan (SI: Alora) (They/Them), A 5"8 Half-Elf Druid. (Backstory to be decided) A hermit outcast by humans and elves due to their race, finding safety in nature they have become heavily attuned to the natural world. 
 
-
-
-
-
-
-
-Rav - Raven Nightspirit (They/Them), A 5"2 Half-Elf Warlock. Sworn into a pact with a demi-god who promised to cure their nightmares Raven must fight any and all evil they encounter. Not being too experienced in this they have fled south to avoid their patron's scrutiny hoping to rid themselves of their curse in any way possible. Hearing rumours of powerful magic groups in the area they have settled in the local inn, tempted to eldritch blast the conman who sits across the bar from them each morning.
-
-- A 4" Dwarf Bard. Gods. Help. Us. All. 

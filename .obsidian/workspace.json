@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session 0 Debrief.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0 Debrief"
+              "title": "README"
             }
           }
         ],
@@ -216,11 +216,12 @@
   "lastOpenFiles": [
     "Campaign/Player Characters.md",
     "Campaign/Session 0 Debrief.md",
+    "README.md",
+    "5e_charactersheets.zip",
     "DM stuff and In Progress/Prologue.md",
     "DM stuff and In Progress/World Building.md",
     "DM stuff and In Progress/Storyline.md",
     "DM stuff and In Progress/Brunch-Brunch Tribe.md",
-    "README.md",
     "DM stuff and In Progress",
     "Welcome.md",
     "Untitled 1.base",
